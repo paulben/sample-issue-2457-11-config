@@ -31,7 +31,7 @@ app:
     - name: clientId
       value: "client01"
     - name: clientSecret
-      secret: "CLIENT_SECRET"
+      value: "CLIENT_SECRET"
 
   # # List of variables that can be referenced in the server.xml
   # variables:
